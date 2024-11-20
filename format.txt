@@ -1,0 +1,17 @@
+Key Modifications for IEEE Format
+Title Page:
+The title is set in 24-point bold font and centered.
+Authors and affiliations are formatted below the title in 12-point and 10-point fonts, respectively.
+The abstract follows the title page, formatted in 12-point font.
+Headings:
+Section headings (e.g., 1., 2., 3.) are 14-point bold, aligned to the left.
+Subsection headings (e.g., 1.1, 1.2) are 12-point bold.
+Sub-subsection headings (e.g., 1.1.1, 1.1.2) are 12-point italicized.
+Body Text:
+Text is formatted in 12-point Times New Roman, with single line spacing (IEEE format uses single spacing for body text).
+No extra space after paragraphs, adhering to typical IEEE formatting.
+Margins:
+The page margins are set to 1 inch on all sides (72 points per inch).
+Formatting Specifics
+Paragraph alignment: For titles, authors, and sections, text is centered or left-aligned as required.
+Line spacing: Single spacing is applied for the body text.
